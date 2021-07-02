@@ -1,0 +1,26 @@
+body {
+    background-color: crimson;
+    color: antiquewhite;
+}
+
+.header {
+    width: 80%;
+    font-family: Jomhuria;
+}
+
+#camera {
+    border: 2px indianred dotted;
+    width: 350px;
+    height: 350px;
+}
+
+.NameOfObjects {
+    color: mistyrose;
+    font-size: 20px;
+    font-family: cursive;
+}
+
+#result_object_name,
+#object_accuracy {
+    color: lightpink;
+}
